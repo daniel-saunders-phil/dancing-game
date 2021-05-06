@@ -5,4 +5,4 @@ This project expands on that work to explore how gendered social learning might 
 can be found inside the file.
 
 The file is written in netlogo.
-You can download netlogo or get access to a browswer-based netlogo environment [here](https://www.netlogoweb.org/). The fastest way to explore this file is to download it to your computer and then upload the file to Netlogo Web.
+You can download netlogo or get access to a browser-based netlogo environment [here](https://www.netlogoweb.org/). The fastest way to explore this file is to download it to your computer and then upload the file to Netlogo Web.
