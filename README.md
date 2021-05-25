@@ -13,4 +13,4 @@ The second kind of file is the data analysis. The data analysis was originally d
 
 The third type of file is a cluster of csv files which contain a bunch of data produced by the netlogo model.
 
-The fourth type of file is a pdf of the paper written about this model. It's probably the best place to start. It provides context and justification for the modeling project and summarizes many of the major results. The other three kinds of files should give you enough tools to reproduce every figure and number in the paper.
+The fourth type of file is a pdf of the paper written about this model. It's probably the best place to start if you are interested in this project. It provides context and justification for the modeling framework and summarizes many of the major results. The other three kinds of files should give you enough tools to reproduce every figure and number in the paper. If you run into problems with reproduction, send me an email or raise an issue on github.
