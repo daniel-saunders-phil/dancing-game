@@ -1,7 +1,7 @@
 # dancing-game
 An agent-based model for exploring the evolution of gendered behaviour and social learning. The modeling approach draws heavily
 on evolutionary game theory and [this book](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198789970.001.0001/oso-9780198789970).
-This project expands on that book to explore how gendered social learning might have co-evolved with gendered behaviour.
+This project expands on that book to explore how gendered social learning might have co-evolved with gendered behaviour. Results from this project were published [here](https://journals.sagepub.com/doi/10.1177/00483931211049770)
 
 There are four kinds of files in the repository:
 
