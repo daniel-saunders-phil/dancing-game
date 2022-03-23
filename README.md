@@ -5,8 +5,7 @@ This project expands on that book to explore how gendered social learning might 
 
 There are four kinds of files in the repository:
 
-The primary file is the model itself. It is written in netlogo.
-You can download netlogo or get access to a browser-based netlogo environment [here](https://www.netlogoweb.org/). The fastest way to explore this file is to download it to your computer and then upload the file to Netlogo Web. The file is heavily annotated so you should be able to understand how it behaves from the info tab and understand how it's coded from the code tab.
+The primary file is the model itself. It is written in netlogo. There are two versions - one is labeled 'simplified'. It's easy to read and play with. The file is heavily annotated so you should be able to understand how it behaves from the info tab and understand how it's coded from the code tab. The second is labeled 'matrix' setup. It's the heavy duty model that I used for big simulation experiments and sensitivity testing. You can download netlogo or get access to a browser-based netlogo environment [here](https://www.netlogoweb.org/). The fastest way to explore this file is to download it to your computer and then upload the file to Netlogo Web. 
 
 The second kind of file is the data analysis. The data analysis was originally done with Jupyter notebooks but I've also created version of the file in base python. The data analysis files can be read in a lot of ways but I recommend using Jupyter notebooks if you have them. A browser-based Jupyter notebook is available [here](https://jupyter.org/try) along with a tutorial if you are unfamiliar.
 
