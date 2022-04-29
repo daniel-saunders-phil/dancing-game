@@ -9,6 +9,6 @@ The primary file is the model itself. It is written in netlogo. There are two ve
 
 The second kind of file is the data analysis. The data analysis was done in Python. I've uploaded it as a Juypter notebook hosted by Google Colab. This means you can run the data analysis directly in your browser, no matter whether you have Python installed or not.
 
-The third type of file is a cluster of csv files which contain a bunch of data produced by the netlogo model. They are stored in the data folder. The Google Colab notebooks have links to their urls so will be able to open and read their contents automatically.
+The third type of file is a cluster of csv files which contain a bunch of data produced by the netlogo model. They are stored in the `data` folder. The Google Colab notebooks have links to their urls so will be able to open and read their contents automatically.
 
 The fourth type of file is a pdf of the paper written about this model. This particular paper has *not* been published but is an expansion on the published piece linked above. It's probably the best place to start if you are interested in this project but unfamiliar with programming or evolutionary game theory. It provides context and justification for the modeling framework and summarizes many of the major results. The other three kinds of files should give you enough tools to reproduce every figure, table and number in the *published* paper. If you run into problems with reproduction, send me an email or raise an issue on github.
